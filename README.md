@@ -75,6 +75,6 @@ requirements.txt: A list of all dependencies required for the project
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/Dhanashri/Desktop/screenshot1.png)
+(file:///C:/Users/Dhanashri/Desktop/screenshot1.png)
 
-![App Screenshot](file:///C:/Users/Dhanashri/Desktop/screenshot2.png)
+(file:///C:/Users/Dhanashri/Desktop/screenshot2.png)
