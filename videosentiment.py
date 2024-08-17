@@ -14,10 +14,11 @@ def speech_to_text_with_timestamps(audio_path, language="en"):
     audio = whisper.load_audio(audio_path)
     #model = whisper.load_model("medium", device="cpu")
     model = whisper.load_model("base")
-    #result = whisper.transcribe(model, audio, language=language)
-    result =model.transcribe(audio,fp16 =False)
-    print(result["text"])
-
+    result = whisper.transcribe(model, audio, language=language)
+    #result =model.transcribe(audio,fp16 =False)
+    #print(result["text"])
+    return result
+    
 def create_text_from_transcription(transcription_data):
     # Example of handling different formats
     print(transcription_data)
