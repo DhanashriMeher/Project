@@ -5,14 +5,19 @@ This project allows users to upload a video file, extract its audio, transcribe 
 
 
 
-
 ## Environment Variables
 
 To run this project, need to add the following environment variables to .env file
 
 `API_KEY` : ffmpeg 
 
-
+## Requirements
+- Python 3.8 or higher
+- Streamlit
+- moviepy
+- whisper-timestamped
+- nltk
+- Make sure you have ffmpeg installed for moviepy to work correctly.
 
 ## Features
 
@@ -71,8 +76,7 @@ requirements.txt: A list of all dependencies required for the project
 
 ## Usage:
 - Run the Streamlit app:
-- streamlit run app.py
-
+- streamlit run videosentiment.py  
 
 
 ## Clone the Repository:
