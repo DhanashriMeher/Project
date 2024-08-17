@@ -70,7 +70,7 @@ requirements.txt: A list of all dependencies required for the project
 ```
 
 ## Clone the Repository:
-Github Clone : https://github.com/DhanashriMeher/Project
+Github Clone : https://github.com/DhanashriMeher/Project.git
 
 
 ## Screenshots
