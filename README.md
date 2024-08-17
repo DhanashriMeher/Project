@@ -75,6 +75,5 @@ Github Clone : https://github.com/DhanashriMeher/Project
 
 ## Screenshots
 
-(file:///C:/Users/Dhanashri/Desktop/screenshot1.png)
-
-(file:///C:/Users/Dhanashri/Desktop/screenshot2.png)
+![App Screenshot](file:///C:/Users/Dhanashri/Desktop/screenshot1.png)
+![App Screenshot](file:///C:/Users/Dhanashri/Desktop/screenshot2.png)
