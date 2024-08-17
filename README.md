@@ -69,6 +69,12 @@ requirements.txt: A list of all dependencies required for the project
 - nltk: For natural language processing and sentiment analysis. 
 ```
 
+## Usage:
+- Run the Streamlit app:
+- streamlit run app.py
+
+
+
 ## Clone the Repository:
 Github Clone : https://github.com/DhanashriMeher/Project.git
 
@@ -76,4 +82,6 @@ Github Clone : https://github.com/DhanashriMeher/Project.git
 ## Screenshots
 
 ![App Screenshot](https://github.com/DhanashriMeher/Project/blob/main/screenshot1.png?raw=true)
+
+
 ![App Screenshot](https://github.com/DhanashriMeher/Project/blob/main/screenshot2.png?raw=true)
